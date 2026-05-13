@@ -1,0 +1,12 @@
+{
+  "name": "custom-dns-server",
+  "version": "1.0.0",
+  "description": "Custom DNS-over-HTTPS server",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "dns-packet": "^5.6.0"
+  }
+}
